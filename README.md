@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 An enthusiastic data scientist specializing in data engineering, exploratory data analysis, and model training, development, and deployment<br>Continually learning implementation of LLMs, agents, and RAG<br>Let's collaborate and engage on everything dealing with data science<br><br>Let's get into it and have fun
 
 
